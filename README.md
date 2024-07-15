@@ -12,5 +12,4 @@ Abstract - Granthabitan is an Online Book Store for buying your favourite bengal
 ## Cart Page:
 ![image]((https://github.com/itssd10/grantha_bitan/assets/108353584/f6c7a49f-31ed-424f-a855-4d2dba6c7533)
 )
-## Documentation
-(https://drive.google.com/file/d/1sUaCLNa-rYuv22EB1Hf4R5jxRXN5uAkF/view?usp=sharing)https://drive.google.com/file/d/1sUaCLNa-rYuv22EB1Hf4R5jxRXN5uAkF/view?usp=sharing)
+

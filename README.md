@@ -1,7 +1,7 @@
 # Granthabitan-Book-Store-Website-
 Granthabitan is an Online book store Project completed during TCR Innovation Internship using HTML CSS and JavaScript.
 # Abstrat
-Abstract - Granthabitan is an Online Book Store for buying your favourite bengali books.
+Abstract - Granthabitan is an Online Book Store for buying your favourite bengali writters Novels, Storybooks etc.
 # Screenshot
 Home Page:
 ![Home page](https://github.com/user-attachments/assets/085ca357-c7e4-4222-b7f4-529db61b7461)

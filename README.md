@@ -4,12 +4,9 @@ Granthabitan is an Online book store Project completed during TCR Innovation Int
 Abstract - Granthabitan is an Online Book Store for buying your favourite bengali writters Novels, Storybooks etc.
 # Screenshot
 ## Home Page :
-![image]((https://github.com/itssd10/grantha_bitan/assets/108353584/37bbb4bc-b1e3-4f06-9449-10c602368113)
-)
+![Home page](https://github.com/user-attachments/assets/99008bce-f1b1-4b96-b601-a53322c1e2ad)
 ## Login Page:
-![image]((https://github.com/itssd10/grantha_bitan/assets/108353584/d4c20fca-aabf-4c0d-8825-5cd365a93bf6)
-)
+![login page](https://github.com/user-attachments/assets/4288bbc0-ec55-4eb2-adb4-47028072329e)
 ## Cart Page:
-![image]((https://github.com/itssd10/grantha_bitan/assets/108353584/f6c7a49f-31ed-424f-a855-4d2dba6c7533)
-)
+![cart page](https://github.com/user-attachments/assets/5cec7898-6ce5-4182-bfc4-c3ff6a53901d)
 
